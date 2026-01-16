@@ -1,5 +1,7 @@
 # hello-world
 
+**If you've setup your development environment go to [Assignment](#assignment)**
+
 ## Requirements
 
 - Git
@@ -126,3 +128,4 @@ After you have finished these steps switch to the `roots` branch for part 2 of t
 ``` shell
 git switch roots
 ```
+
