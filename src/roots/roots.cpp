@@ -61,7 +61,7 @@ bool bisection(std::function<double(double)> f,
     return false; // Max iterations reached
 }
 
-// midpoint 
+// lin
 bool regula_falsi(std::function<double(double)> f,
                   double a, double b,
                   double *root) {
